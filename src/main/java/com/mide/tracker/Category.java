@@ -1,4 +1,4 @@
-package com.yourname.tracker;
+package com.mide.tracker;
 
 public enum Category {
     FOOD, TRANSPORT, RENT, FUN, OTHER

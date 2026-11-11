@@ -1,4 +1,4 @@
-package com.yourname.tracker;
+package com.mide.tracker;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;

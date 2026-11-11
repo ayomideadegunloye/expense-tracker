@@ -6,6 +6,10 @@ import java.math.BigDecimal;
 import java.time.LocalDate;
 import org.junit.jupiter.api.Test;
 
+import com.mide.tracker.Category;
+import com.mide.tracker.Expense;
+import com.mide.tracker.InvalidExpenseException;
+
 class ExpenseTest {
     @Test
     void rejectsZeroAmount() {

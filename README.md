@@ -1,6 +1,6 @@
 # Java Expense Tracker
 
-A command-line expense tracker built in plain Java. Add expenses, view them,
+A command-line expense tracker built in plain Java. Add expenses, view them,ay
 and see totals by category and by month. Data is saved to a CSV file.
 
 ## Features
@@ -16,14 +16,14 @@ Requires Java 17+ and Maven.
 
 ```
 mvn test
-mvn compile exec:java -Dexec.mainClass=com.yourname.tracker.Main
+mvn compile exec:java -Dexec.mainClass=com.mide.tracker.Main
 ```
 
 Or compile manually:
 
 ```
-javac -d out src/main/java/com/yourname/tracker/*.java
-java -cp out com.yourname.tracker.Main
+javac -d out src/main/java/com/mide/tracker/*.java
+java -cp out com.mide.tracker.Main
 ```
 
 ## Project structure

@@ -8,6 +8,9 @@ import java.time.YearMonth;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
+import com.mide.tracker.Category;
+import com.mide.tracker.ExpenseTracker;
+
 class ExpenseTrackerTest {
     private ExpenseTracker tracker;
 

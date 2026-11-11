@@ -1,4 +1,4 @@
-package com.yourname.tracker;
+package com.mide.tracker;
 
 public class InvalidExpenseException extends RuntimeException {
     public InvalidExpenseException(String message) {

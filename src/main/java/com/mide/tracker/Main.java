@@ -1,4 +1,4 @@
-package com.yourname.tracker;
+package com.mide.tracker;
 
 import java.io.IOException;
 import java.math.BigDecimal;
